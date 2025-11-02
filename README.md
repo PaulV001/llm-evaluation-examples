@@ -1,6 +1,3 @@
-# llm-evaluation-examples
-Lightweight examples of LLM evaluation artifacts: rubrics, prompts, and evaluator guidelines.
-
 # LLM Evaluation Examples
 
 This repository contains lightweight examples of evaluation artifacts used in LLM quality workflows.  
